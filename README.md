@@ -97,9 +97,3 @@ A toggle button is added for enabling or disabling the field vectors' display, o
 - Optimize field computation for larger grids or higher-resolution visualizations.
 - Add customization options for coil parameters (number of coils, spacing, etc.) and particle properties.
 - Implement electric field effects alongside the magnetic field.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
